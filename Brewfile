@@ -1,3 +1,4 @@
+brew "ffmpeg"
 brew "hugo"
 brew "lazygit"
 brew "mas"
