@@ -14,10 +14,12 @@ brew "readline"
 brew "ripgrep"
 brew "rsync"
 brew "xh"
+brew "zola"
 cask "calibre"
 cask "firefox"
 cask "font-meslo-lg-nerd-font"
 cask "gpg-suite"
+cask "imageoptim"
 cask "iterm2"
 cask "little-snitch"
 cask "netnewswire"
@@ -25,7 +27,6 @@ cask "nova"
 cask "orion"
 mas "1Blocker", id: 1365531024
 mas "Amphetamine", id: 937984704
-mas "Avenue", id: 1523681067
 mas "Brother iPrint&Scan", id: 1193539993
 mas "CalcService", id: 899970159
 mas "Compressor", id: 424390742
