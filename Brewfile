@@ -32,6 +32,7 @@ mas "CalcService", id: 899970159
 mas "Compressor", id: 424390742
 mas "DaisyDisk", id: 411643860
 mas "Final Cut Pro", id: 424389933
+mas "Flighty", id: 1358823008
 mas "GarageBand", id: 682658836
 mas "iA Writer", id: 775737590
 mas "iMovie", id: 408981434
@@ -45,6 +46,7 @@ mas "Mactracker", id: 430255202
 mas "MainStage", id: 634159523
 mas "Micro Snitch", id: 972028355
 mas "Motion", id: 434290957
+mas "Noir", id: 1592917505
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Panorama Stitcher", id: 979573567
